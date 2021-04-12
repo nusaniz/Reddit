@@ -1,7 +1,7 @@
 # Reddit
 
 - masuk ke <code>C:\Windows\System32\drivers\etc</code>
-- paste kode daftar ip web di bawah ini
+- paste kode daftar ip web di bawah ini - masuk mode raw dulu ya
 
 151.101.129.140 i.redditmedia.com 
 52.34.230.181 www.reddithelp.com 
